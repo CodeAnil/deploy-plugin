@@ -41,7 +41,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<cargo.version>1.4.8</cargo.version>
+		<cargo.version>1.8.4</cargo.version>
 		<jboss.version>7.2.0.Final</jboss.version>
 		<jboss.remoting.version>3.3.1.Final</jboss.remoting.version>
 		<wildfly.version>8.1.0.Final</wildfly.version>
